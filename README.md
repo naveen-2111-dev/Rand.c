@@ -13,13 +13,13 @@ git clone https://github.com/naveen-2111-dev/Random--C.git
 ### compile
 
 ```bash
-gcc -o output.exe Random.c
+gcc Random.c -o Rand.out
 ```
 
 ### Execution
 
 ```bash
-./output.exe
+./Rand.out
 ```
 
 ## Algorithm Explanation
